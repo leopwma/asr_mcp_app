@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+*.app
+*.dmg
+*.exe
+*.zip
+.env
+.vscode/
+.idea/
+
